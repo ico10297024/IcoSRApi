@@ -1,0 +1,3 @@
+/home/adminc/Program/IcoStudy/mqttlib/.externalNativeBuild/cmake/release/armeabi/CMakeFiles/rebuild_cache.dir
+/home/adminc/Program/IcoStudy/mqttlib/.externalNativeBuild/cmake/release/armeabi/CMakeFiles/edit_cache.dir
+/home/adminc/Program/IcoStudy/mqttlib/.externalNativeBuild/cmake/release/armeabi/CMakeFiles/native-lib.dir

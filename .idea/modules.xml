@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BleDock/BleDock.iml" filepath="$PROJECT_DIR$/BleDock/BleDock.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BleLock/BleLock.iml" filepath="$PROJECT_DIR$/BleLock/BleLock.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BluetoothLeGatt/BluetoothLeGatt.iml" filepath="$PROJECT_DIR$/BluetoothLeGatt/BluetoothLeGatt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ico/Ico.iml" filepath="$PROJECT_DIR$/Ico/Ico.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IcoApi.iml" filepath="$PROJECT_DIR$/IcoApi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IcoStudy.iml" filepath="$PROJECT_DIR$/IcoStudy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WheelPicker/WheelPicker.iml" filepath="$PROJECT_DIR$/WheelPicker/WheelPicker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ble/ble.iml" filepath="$PROJECT_DIR$/ble/ble.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mqtt/mqtt.iml" filepath="$PROJECT_DIR$/mqtt/mqtt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mqttlib/mqttlib.iml" filepath="$PROJECT_DIR$/mqttlib/mqttlib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pay/pay.iml" filepath="$PROJECT_DIR$/pay/pay.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,3 @@
+/home/adminc/Program/IcoStudy/mqttlib/.externalNativeBuild/cmake/release/mips64/CMakeFiles/rebuild_cache.dir
+/home/adminc/Program/IcoStudy/mqttlib/.externalNativeBuild/cmake/release/mips64/CMakeFiles/edit_cache.dir
+/home/adminc/Program/IcoStudy/mqttlib/.externalNativeBuild/cmake/release/mips64/CMakeFiles/native-lib.dir
